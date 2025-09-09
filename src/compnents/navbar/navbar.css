@@ -6,8 +6,12 @@
     font-family: sans-serif;
 }
 
-.navbar > li {
+.navbar {
     cursor: pointer;
     font-size: 1.2rem;
     font-weight: normal;
+}
+
+.active {
+    color: darkred;
 }
