@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style-type: none;
+    font-family: sans-serif;
+    text-decoration: none;
+}
+
+.section1 {
+    background-image: url('../assets/bg-1.webp');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 70vh;
+    width: 2000000vw;
+    display: flex;
+    align-items: center;
+}
